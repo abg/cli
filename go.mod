@@ -38,7 +38,7 @@ require (
 	github.com/sajari/fuzzy v1.0.0
 	github.com/sirupsen/logrus v1.9.3
 	github.com/tedsuo/rata v1.0.1-0.20170830210128-07d200713958
-	github.com/vito/go-interact v0.0.0-20171111012221-fa338ed9e9ec
+	github.com/vito/go-interact v1.0.1
 	golang.org/x/crypto v0.13.0
 	golang.org/x/net v0.15.0
 	golang.org/x/text v0.13.0
